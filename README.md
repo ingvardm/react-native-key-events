@@ -36,6 +36,7 @@
 ## API
 ### keyPress(key, callback, prevent_default)
 subscribe for key event
+
 | Argument        | Type     | Default | Description                                            |
 | --------------- |:---------| :------:| :----------------------------------------------------: |
 | key             | string   | NULL    | one of ...RNKeyEvents.KEYS                             |
@@ -47,6 +48,7 @@ unsubscribe from key event
 | Argument        | Type     | Default | Description                                            |
 | --------------- |:---------| :------:| :----------------------------------------------------: |
 | key             | string   | NULL    | one of ...RNKeyEvents.KEYS                             |
+
 ---
 ## Usage
 ```javascript
