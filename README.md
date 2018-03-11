@@ -45,6 +45,7 @@ subscribe for key event
 
 ### off(key)
 unsubscribe from key event
+
 | Argument        | Type     | Default | Description                                            |
 | --------------- |:---------| :------:| :----------------------------------------------------: |
 | key             | string   | NULL    | one of ...RNKeyEvents.KEYS                             |
